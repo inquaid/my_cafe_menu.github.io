@@ -29,3 +29,7 @@ Check out the live version of the CafeMenu [here](https://inquaid.github.io/my_c
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cafemenu.git
+2. Navigate to the project directory:
+   ```bash
+   cd elegant-registration-form
+3. Open index.html in your preferred web browser to view and use the registration form.
