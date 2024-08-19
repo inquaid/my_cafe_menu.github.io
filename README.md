@@ -28,7 +28,7 @@ Check out the live version of the CafeMenu [here](https://inquaid.github.io/my_c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cafemenu.git
+   git clone https://github.com/inquaid/cafemenu.git
 2. Navigate to the project directory:
    ```bash
    cd elegant-registration-form
